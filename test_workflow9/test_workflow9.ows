@@ -1,0 +1,11 @@
+<?xml version="1.0" ?><scheme description="" title="test-workflow9" version="2.0">
+	<nodes>
+		<node id="0" name="File" position="(639.0, 176.0)" project_name="test-workflow9" qualified_name="test_workflow9.OWFile.OWFile" title="File" version=""/>
+	</nodes>
+	<links/>
+	<annotations/>
+	<thumbnail/>
+	<node_properties>
+		<properties format="literal" node_id="0">{'analysis': '/data/ExomiserDocker/exomiser-cli-13.2.0/test-analysis-exome.yml', 'controlAreaVisible': True, 'exodata': '/data/exomiser-cli-13-1-0/exomiser-data/', 'exportGraphics': False, 'inputConnectionsStore': {}, 'iterate': False, 'iterateSettings': {'iterableAttrs': [], 'nWorkers': 1}, 'nWorkers': 1, 'optionsChecked': {'File': False}, 'results': '/data/ExomiserDocker/exomiser-cli-13.2.0/results/', 'runMode': 0, 'runTriggers': [], 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\x07\x7f\x00\x00\x03\xa7\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\x07\x7f\x00\x00\x03\xa7\x00\x00\x00\x00\x02\x00\x00\x00\x07\x80', 'springconfig': '/data/ExomiserDocker/exomiser-cli-13.2.0/application.properties', 'triggerReady': {}, 'useGpu': False, 'useScheduler': False, '__version__': 1}</properties>
+	</node_properties>
+</scheme>
