@@ -1,0 +1,13 @@
+<?xml version="1.0" ?><scheme description="" title="bashimage-1" version="2.0">
+	<nodes>
+		<node id="0" name="Miscellaneous_File" position="(650.0, 272.0)" project_name="bashimage-1" qualified_name="bashimage_1.OWMiscellaneous_File.OWMiscellaneous_File" title="exomiser" version=""/>
+		<node id="1" name="Miscellaneous_File_1" position="(483.0, 274.0)" project_name="bashimage-1" qualified_name="bashimage_1.OWMiscellaneous_File_1.OWMiscellaneous_File_1" title="edit_files" version=""/>
+	</nodes>
+	<links/>
+	<annotations/>
+	<thumbnail/>
+	<node_properties>
+		<properties format="literal" node_id="0">{'controlAreaVisible': True, 'exoconfig': '/data/exomiser-cli-13.2.0/examples', 'exodata': '/data/exomiser-cli-13-1-0/exomiser-data', 'exoresults': '/data/theresults', 'exportGraphics': False, 'inputConnectionsStore': {}, 'iterate': False, 'iterateSettings': {'iterableAttrs': [], 'nWorkers': 1}, 'nWorkers': 1, 'optionsChecked': {'File': False}, 'runMode': 0, 'runTriggers': [], 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t\xff\x00\x00\x05\x12\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\t\xff\x00\x00\x05\x0f\x00\x00\x00\x00\x00\x00\x00\x00\n\x00', 'triggerReady': {}, 'useGpu': False, 'useScheduler': False, '__version__': 1}</properties>
+		<properties format="literal" node_id="1">{'apdir': 'application.properties', 'assemblydataver': '2209', 'assemblytype': 'hg19', 'controlAreaVisible': True, 'datadir': '/exomiser-data', 'exportGraphics': False, 'inputConnectionsStore': {}, 'iterate': False, 'iterateSettings': {'iterableAttrs': [], 'nWorkers': 1}, 'mapping': '/data/bashimage2', 'nWorkers': 1, 'optionsChecked': {'File': False}, 'phenotypedataver': '2209', 'runMode': 0, 'runTriggers': [], 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\t\xff\x00\x00\x05\x0f\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\t\xff\x00\x00\x05\x0f\x00\x00\x00\x00\x00\x00\x00\x00\n\x00', 'triggerReady': {}, 'useGpu': False, 'useScheduler': False, '__version__': 1}</properties>
+	</node_properties>
+</scheme>
